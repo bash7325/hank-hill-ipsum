@@ -1,18 +1,29 @@
 const text = [
     'This is a test',
-    'potato salad'
+    'potato salad',
 ]
 
 const form = document.querySelector(".lorem-form");
 const numOfPara = document.getElementById("numofpara");
-const numOfParaRange = document.getElementById("numofaraRange");
-cosnt result = document.querySelector(".lorem-text");
+const numOfParaRange = document.getElementById("numofparaRange");
+const result = document.querySelector(".lorem-text");
 
-fucntion syncParaNumners(e) {
+function syncParaNumbers(e) {
     const value = e.target.value;
-    numofpara.value = value;
-    numofparaRange.value = value;
+    numOfPara.value = value;
+    numOfParaRange.value = value;
 }
 
-numofpara.addEventListener('input', syncParaNumners);
-numofparaRange.addEventListener('input', syncParaNumners);
+
+form.addEventListener('submit', e => {
+    e.preventDefault();
+    const value = parseInt(numOfPara.value)
+    let tempText = text.slice(0, value);
+    tempText = tempText.map(item => `<p class="result">${item}</p>`).join("");
+    result.innerHTML = tempText;
+
+})
+
+
+numOfPara.addEventListener('input', syncParaNumbers);
+numOfParaRange.addEventListener('input', syncParaNumbers);
