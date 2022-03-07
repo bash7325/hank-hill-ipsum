@@ -3,7 +3,7 @@
 ::before {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
+  /* box-sizing: border-box; */
 }
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -16,6 +16,9 @@ body {
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
+  /*make background responsive */
+  background-size: 100% 100%;
+
   
 }
 
@@ -36,6 +39,7 @@ h3 {
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-wrap: wrap;
 }
 .paraAmountNum{
   display: flex;
@@ -91,10 +95,14 @@ input {
 }
 
 footer {
-    position: fixed;
+  /* position: fixed; */
   left: 0;
   bottom: 0;
   width: 100%;
   color: white;
   text-align: center;
+}
+
+section {
+  padding-bottom: 2rem;
 }

@@ -23,7 +23,7 @@ function syncParaNumbers(e) {
     const value = e.target.value;
     numOfPara.value = value;
     numOfParaRange.value = value;
-}
+};
 
 
 form.addEventListener('submit', e => {
@@ -33,8 +33,7 @@ form.addEventListener('submit', e => {
     tempText = tempText.sort(() => Math.random() - 0.5);
     tempText = tempText.map(item => `<p class="result">${item}</p>`).join("");
     result.innerHTML = tempText;
-
-})
+});
 
 
 numOfPara.addEventListener('input', syncParaNumbers);
