@@ -17,6 +17,11 @@ const text = [
     'The most important thing in life is to be kind to yourself. To be kind to others is to be kind to yourself.',
     'If a child smiles, if an adult smiles, that is very important. If in our daily lives we can smile, if we can be peaceful and happy, not only we, but everyone will profit from it. If we really know how to live, what better way to start the day than with a smile? Our smile affirms our awareness and determination to live in peace and joy. The source of a true smile is an awakened mind.',
     'Look at flowers, butterflies, trees, and children with the eyes of compassion. Compassion will change your life and make it wonderful.',
+    'You can do it if you have the energy of mindfulness. You cultivate the energy of mindfulness with mindful breathing and mindful walking, and with that energy, you can recognize and tenderly embrace your worry, fear, and anger. When your baby suffers and cries, you don’t want to punish him or her, because your baby is you. Your fear and anger are like your baby. Don’t imagine that you can just throw them out the window. Don’t be violent toward your anger, your fear, and your worries.',
+    'We have to learn to build safety with our in-breath and our out-breath. We have to learn to build safety with our steps, with our way of acting and reacting, with our words and our efforts to build communication.',
+    'When the crowded Vietnamese refugee boats met with storms or pirates, if everyone panicked all would be lost. But if even one person on the boat remained calm and centered, it was enough. It showed the way for everyone to survive.',
+    'Maybe you have a habit of worrying. Even if you know it’s neither necessary nor useful, you still worry. You’d like to ban worry and get rid of it, because you know that when you worry you can’t get in touch with the wonders of life and you can’t be happy. So you get angry at your worry; you don’t want it. But worry is a part of you, and that’s why when your worry comes up, you have to know how to handle it tenderly and peacefully.',
+    
 
   ]
 
