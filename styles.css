@@ -11,6 +11,12 @@ body {
   color: hsl(209, 61%, 16%);
   line-height: 1.5;
   font-size: 0.875rem;
+  background: url(./assets/TNH.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  
 }
 
 h3 {
@@ -73,4 +79,6 @@ input {
 .result {
   width:80vw;
   margin: 1rem auto;
+  font-size: 1.05rem;
+  font-weight: 700;
 }
