@@ -10,7 +10,13 @@ const text = [
     'Life is available only in the present. That is why we should walk in such a way that every step can bring us to the here and the now.',
     'You do not need to waste your time doing those things that are unnecessary and trifling. You do not have to be rich. You do not need to seek fame or power. What you need is freedom, solidity, peace and joy. You need the time and energy to be able to share these things with others.',
     'When a person’s speech is full of anger, it is because he or she suffers deeply',
-    
+    'Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today.',
+    'We humans have lost the wisdom of genuinely resting and relaxing. We worry too much. We dont allow our bodies to heal, and we dont allow our minds and hearts to heal.',
+    'Impermanence and selflessness are not negative aspect of life, but the very foundation on which life is built. Impermanence is the constant transformation of things. Without impermanence, there can be no life. Selflessness is the interdependent nature of all things. Without interdependence, nothing could exist.',
+    'To take good care of ourselves, we must go back and take care of the wounded child inside of us. You have to practice going back to your wounded child every day. You have to embrace him or her terderly, like a big brother or a big sister. You have to talk to him, talk to her. And you can write a letter to the Little child in you, of two or three pages, to that you recognize his or her presence, and will do everything you can to heal his or her wounds.',
+    'The most important thing in life is to be kind to yourself. To be kind to others is to be kind to yourself.',
+    'If a child smiles, if an adult smiles, that is very important. If in our daily lives we can smile, if we can be peaceful and happy, not only we, but everyone will profit from it. If we really know how to live, what better way to start the day than with a smile? Our smile affirms our awareness and determination to live in peace and joy. The source of a true smile is an awakened mind.',
+    'Look at flowers, butterflies, trees, and children with the eyes of compassion. Compassion will change your life and make it wonderful.',
 
   ]
 
