@@ -21,8 +21,11 @@ const text = [
     'We have to learn to build safety with our in-breath and our out-breath. We have to learn to build safety with our steps, with our way of acting and reacting, with our words and our efforts to build communication.',
     'When the crowded Vietnamese refugee boats met with storms or pirates, if everyone panicked all would be lost. But if even one person on the boat remained calm and centered, it was enough. It showed the way for everyone to survive.',
     'Maybe you have a habit of worrying. Even if you know it’s neither necessary nor useful, you still worry. You’d like to ban worry and get rid of it, because you know that when you worry you can’t get in touch with the wonders of life and you can’t be happy. So you get angry at your worry; you don’t want it. But worry is a part of you, and that’s why when your worry comes up, you have to know how to handle it tenderly and peacefully.',
-    
-
+    'Walk as if you are kissing the Earth with your feet.',
+    'For things to reveal themselves to us, we need to be ready to abandon our views about them.',
+    'When another person makes you suffer, it is because he suffers deeply within himself, and his suffering is spilling over. He does not need punishment; he needs help. That’s the message he is sending.',
+    'Root out the violence in your life, and learn to live compassionately and mindfully. Seek peace. When you have peace within, real peace with others is possible.',
+    'People usually consider walking on water or in thin air a miracle. But I think the real miracle is not to walk either on water or in thin air, but to walk on earth. Every day we are engaged in a miracle which we dont even recognize: a blue sky, white clouds, green leaves, the black, curious eyes of a child—our own two eyes. All is a miracle.',
   ]
 
 const form = document.querySelector(".lorem-form");
