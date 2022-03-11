@@ -26,6 +26,10 @@ const text = [
     'When another person makes you suffer, it is because he suffers deeply within himself, and his suffering is spilling over. He does not need punishment; he needs help. That’s the message he is sending.',
     'Root out the violence in your life, and learn to live compassionately and mindfully. Seek peace. When you have peace within, real peace with others is possible.',
     'People usually consider walking on water or in thin air a miracle. But I think the real miracle is not to walk either on water or in thin air, but to walk on earth. Every day we are engaged in a miracle which we dont even recognize: a blue sky, white clouds, green leaves, the black, curious eyes of a child—our own two eyes. All is a miracle.',
+    'The only way to ease our fear and be truly happy is to acknowledge our fear and look deeply at its source. Instead of trying to escape from our fear, we can invite it up to our awareness and look at it clearly and deeply.',
+    'If we believe that tomorrow will be better, we can bear a hardship today.',
+    'Life is filled with suffering, but it is also filled with many wonders.',
+    'For things to reveal themselves to us, we need to be ready to abandon our views about them.',
   ]
 
 const form = document.querySelector(".lorem-form");
