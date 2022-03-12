@@ -11,21 +11,19 @@ body {
   color: hsl(209, 61%, 16%);
   line-height: 1.5;
   font-size: 0.875rem;
-  background: url(./assets/TNH.jpeg);
+  background: url(./assets/TNH-smile.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
   /*make background responsive */
   background-size: 100% 100%;
-
-  
 }
 
 h3 {
-  font-size: 1.25rem;
+  font-size: 1.33rem;
   text-transform: uppercase;
-  color: hsl(205, 86%, 17%);
+  color: rgb(255, 255, 255);
   line-height: 1.25;
   margin: 0.75rem 0;
   letter-spacing: 0.25rem;
@@ -48,7 +46,7 @@ h3 {
 }
 label {
   font-size: 1.25rem;
-  color: hsl(205, 86%, 17%);
+  color: rgb(255, 255, 255);
 }
 input {
   padding: 0.25rem 0.5rem;
@@ -63,12 +61,12 @@ input {
 .btn {
   text-transform: uppercase;
   background: transparent;
-  color: #222;
+  color: rgb(102, 102, 102);
   letter-spacing: 0.1rem;
   display: inline-block;
   font-weight: 700;
   transition: all 0.3s linear;
-  border: 2px solid #222;
+  border: 2px solid rgb(102, 102, 102);
   cursor: pointer;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
   border-radius: 0.25rem;
@@ -85,7 +83,7 @@ input {
   margin: 1rem auto;
   font-size: 1.05rem;
   font-weight: 700;
-  color: rgb(255, 255, 255);
+  color: rgb(231, 231, 231);
   font-size: 20px;
   text-shadow:
       0.07em 0 black,
@@ -105,4 +103,10 @@ footer {
 
 section {
   padding-bottom: 2rem;
+}
+
+.lorem-text {
+  background: rgba(0, 0, 0, 0.6);
+  margin: 0px 10px 0px 10px;
+
 }
