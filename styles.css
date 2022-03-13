@@ -87,7 +87,7 @@ input {
 
 .btn:hover {
   color: #fff;
-  background: #222;
+  background: #333;
 }
 
 .result {
@@ -116,6 +116,7 @@ footer {
 
 section {
   padding-bottom: 2rem;
+  padding-top: 2rem;
 }
 
 .lorem-text {
