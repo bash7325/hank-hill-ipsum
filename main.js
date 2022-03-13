@@ -20,3 +20,4 @@ form.addEventListener("submit", (e) => {
 
 numOfPara.addEventListener("input", syncParaNumbers);
 numOfParaRange.addEventListener("input", syncParaNumbers);
+
