@@ -21,12 +21,6 @@ body {
   background-size: 100% 100%;
 }
 
-@media screen and (max-width:768px) {
-  body {
-    background-size: cover;
-    background-attachment:fixed }
-}
-
 h3 {
   font-size: 1.33rem;
   text-transform: uppercase;
@@ -151,4 +145,11 @@ li a:hover {
 
 .title-float {
   float: left;
+}
+
+
+@media screen and (max-width:768px) {
+  body {
+    background-size: cover;
+    background-attachment:fixed }
 }
