@@ -24,7 +24,7 @@ body {
 h3 {
   font-size: 1.33rem;
   text-transform: uppercase;
-  color: rgb(255, 255, 255);
+  color: hsl(209, 61%, 16%);
   line-height: 1.25;
   margin: 0.75rem 0;
   letter-spacing: 0.25rem;
@@ -55,7 +55,7 @@ label {
 
 input {
   padding: 0.25rem 0.5rem;
-
+  color:rgb(102, 102, 102);
   width: 4rem;
   border-radius: 0.5rem;
   border: none;
