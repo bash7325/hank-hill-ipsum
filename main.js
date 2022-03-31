@@ -12,7 +12,7 @@ function syncParaNumbers(e) {
 form.addEventListener("submit", (e) => {
   e.preventDefault();
   const value = parseInt(numOfPara.value);
-  let tempText = text.slice(0, value);
+  let tempText = text.sort(() => Math.random() - 0.5).slice(0, value);
   tempText = tempText.sort(() => Math.random() - 0.5);
   tempText = tempText.map((item) => `<p class="result">${item}</p>`).join("");
   result.innerHTML = tempText;
