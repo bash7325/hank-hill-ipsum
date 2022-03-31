@@ -1,33 +1,141 @@
 const text = [
-  "To be beautiful means to be yourself. You don’t need to be accepted by others. You need to accept yourself",
-  "Letting go gives us freedom, and freedom is the only condition for happiness. If, in our heart, we still cling to anything – anger, anxiety, or possessions – we cannot be free.",
-  "The raft is used to cross the river. It isn’t to be carried around on your shoulders. The finger which points at the moon isn’t the moon itself.",
-  "People usually consider walking on water or in thin air a miracle. But I think the real miracle is not to walk either on water or in thin air, but to walk on earth. Every day we are engaged in a miracle which we don’t even recognize: a blue sky, white clouds, green leaves, the black, curious eyes of a child — our own two eyes. All is a miracle.",
-  "Mindfulness helps you go home to the present. And every time you go there and recognize a condition of happiness that you have, happiness comes",
-  "Through my love for you, I want to express my love for the whole cosmos, the whole of humanity, and all beings. By living with you, I want to learn to love everyone and all species. If I succeed in loving you, I will be able to love everyone and all species on Earth… This is the real message of love.",
-  "Love needs to be nurtured and fed to survive; and our suffering also survives because we enable and feed it. We ruminate on suffering, regret, and sorrow. We chew on them, swallow them, bring them back up, and eat them again and again. If we’re feeding our suffering while we’re walking, working, eating, or talking, we are making ourselves victims of the ghosts of the past, of the future, or our worries in the present. We’re not living our lives.",
-  "Nonviolent action, born of the awareness of suffering and nurtured by love, is the most effective way to confront adversity.",
-  "Life is available only in the present. That is why we should walk in such a way that every step can bring us to the here and the now.",
-  "You do not need to waste your time doing those things that are unnecessary and trifling. You do not have to be rich. You do not need to seek fame or power. What you need is freedom, solidity, peace and joy. You need the time and energy to be able to share these things with others.",
-  "When a person’s speech is full of anger, it is because he or she suffers deeply",
-  "Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today.",
-  "We humans have lost the wisdom of genuinely resting and relaxing. We worry too much. We dont allow our bodies to heal, and we dont allow our minds and hearts to heal.",
-  "Impermanence and selflessness are not negative aspect of life, but the very foundation on which life is built. Impermanence is the constant transformation of things. Without impermanence, there can be no life. Selflessness is the interdependent nature of all things. Without interdependence, nothing could exist.",
-  "To take good care of ourselves, we must go back and take care of the wounded child inside of us. You have to practice going back to your wounded child every day. You have to embrace him or her terderly, like a big brother or a big sister. You have to talk to him, talk to her. And you can write a letter to the Little child in you, of two or three pages, to that you recognize his or her presence, and will do everything you can to heal his or her wounds.",
-  "The most important thing in life is to be kind to yourself. To be kind to others is to be kind to yourself.",
-  "If a child smiles, if an adult smiles, that is very important. If in our daily lives we can smile, if we can be peaceful and happy, not only we, but everyone will profit from it. If we really know how to live, what better way to start the day than with a smile? Our smile affirms our awareness and determination to live in peace and joy. The source of a true smile is an awakened mind.",
-  "Look at flowers, butterflies, trees, and children with the eyes of compassion. Compassion will change your life and make it wonderful.",
-  "You can do it if you have the energy of mindfulness. You cultivate the energy of mindfulness with mindful breathing and mindful walking, and with that energy, you can recognize and tenderly embrace your worry, fear, and anger. When your baby suffers and cries, you don’t want to punish him or her, because your baby is you. Your fear and anger are like your baby. Don’t imagine that you can just throw them out the window. Don’t be violent toward your anger, your fear, and your worries.",
-  "We have to learn to build safety with our in-breath and our out-breath. We have to learn to build safety with our steps, with our way of acting and reacting, with our words and our efforts to build communication.",
-  "When the crowded Vietnamese refugee boats met with storms or pirates, if everyone panicked all would be lost. But if even one person on the boat remained calm and centered, it was enough. It showed the way for everyone to survive.",
-  "Maybe you have a habit of worrying. Even if you know it’s neither necessary nor useful, you still worry. You’d like to ban worry and get rid of it, because you know that when you worry you can’t get in touch with the wonders of life and you can’t be happy. So you get angry at your worry; you don’t want it. But worry is a part of you, and that’s why when your worry comes up, you have to know how to handle it tenderly and peacefully.",
-  "Walk as if you are kissing the Earth with your feet.",
-  "For things to reveal themselves to us, we need to be ready to abandon our views about them.",
-  "When another person makes you suffer, it is because he suffers deeply within himself, and his suffering is spilling over. He does not need punishment; he needs help. That’s the message he is sending.",
-  "Root out the violence in your life, and learn to live compassionately and mindfully. Seek peace. When you have peace within, real peace with others is possible.",
-  "People usually consider walking on water or in thin air a miracle. But I think the real miracle is not to walk either on water or in thin air, but to walk on earth. Every day we are engaged in a miracle which we dont even recognize: a blue sky, white clouds, green leaves, the black, curious eyes of a child—our own two eyes. All is a miracle.",
-  "The only way to ease our fear and be truly happy is to acknowledge our fear and look deeply at its source. Instead of trying to escape from our fear, we can invite it up to our awareness and look at it clearly and deeply.",
-  "If we believe that tomorrow will be better, we can bear a hardship today.",
-  "Life is filled with suffering, but it is also filled with many wonders.",
-  "For things to reveal themselves to us, we need to be ready to abandon our views about them.",
+  "There better be a naked cheerleader under your bed!",
+
+"What the hell kind of country is this where I can only hate a man if he’s white?",
+
+"Bobby, I didn’t think I’d ever need to tell you this, but I would be a bad parent if I didn’t. Soccer was invented by European ladies to keep them busy while their husbands did the cooking.", 
+
+"Why would anyone smoke weed when they could just mow a lawn?", 
+
+"I don’t have an anger problem, I have an idiot problem!", 
+
+"Your heart is telling you? Who’s the boss, you or your heart? You are! Your heart is your employee! So get your heart off its butt and back to work!", 
+
+"You know Kahn, we may deny our kids completely different deserts, but they both go to bed hungry, and that’s what really matters.", 
+
+"There’s something missing, something wrong—it’s like a pretty girl with short hair.", 
+
+"Dallas? I don’t want you going to Dallas at all! That place is crawling with crackheads and debutantes, and half of them play for the Cowboys.", 
+
+"So, are you Chinese or Japanese?", 
+
+"I’m doped out of my gourd!", 
+
+"That’s not the right sort of attitude for you to have. Whatever you do, you should do right, even if it’s something wrong.",
+
+"Can’t you see you’re not making Christianity any better? You’re just making rock and roll worse.",
+
+"Bobby, if you weren’t my son, I’d hug you.", 
+
+"Mister, I have not begun to project my anger onto you!",
+
+"Ah, jeez. I think I need one of those $8 beers.", 
+
+"Maybe I should tie the long hair on your head to the short hair on your ass, and kick you down the street!", 
+
+"They weren’t dancing like you and I used to, Peggy. They were enjoying it.", 
+
+"No Hon, just more of you to love.",
+
+"Bobby, Al Yankovic blew his brains out in the late 80s after people stopped buying his records. He’s not worth getting in trouble over.", 
+
+"I have a sense of humor. I laugh at Tony Danza.", 
+
+"Dale’s losing it at Mega Lo Mart, Nancy. We need some traps for the rat, and a tranquillizer gun for…uh…also for the rat.", 
+
+"Bwaaah!", 
+
+"I am the mack daddy of Heimlich County!",
+
+"What? No, I sell propane!", 
+
+"I wasn’t flirting with her. I didn’t even mention that I work in propane!", 
+
+"When I grow up, I want to sell propane and propane accessories, if my grades are good enough!", 
+
+"The only woman I’m pimping from now on is Sweet Lady Propane. And I’m tricking her out all over this town.", 
+
+"Now you listen to me, mister. I work for a livin’, and I mean real work, not writin’ down gobbledegook! I provide the people of this community with propane and propane accessories. Oh, when I think of all my hard-earned tax dollars goin’ to pay a bunch of little twig-boy bureaucrats like you, it just makes me wanna—oh, oh God.",
+
+"But that shouldn’t stop you from pursuing your own dreams of wood, plywood, pressed fiberboard, and if you’ve got the talent, metal! Y’see, shop doesn’t have to happen in any special place—as long as it’s well lit, and the outlets are grounded. Because the shop is bigger than any classroom, or garage, or stupid policy that makes tools illegal—it’s in our hearts.", 
+
+"Bobby, some things are like a tire fire—trying to put it out only makes it worse. You just gotta grab a beer and let it burn.", 
+
+"Eight feet huh? Yeah, you see Khan, in this neighborhood, side fences have to be 5’6’’ or under. It’s not in the code or anything, it’s just something I’m trying to enforce.", 
+
+"Bobby, you can’t make an omelette without breakin’ eggs, and you can’t get on base without takin’ a swing.", 
+
+"I had to raise a lot of hell in there but sometimes that’s what you gotta do to get the right paperwork.",
+
+"You shut your got-dang mouth or I’ll shove that Ditch Witch down your throat and dig a tunnel straight through to sunshine!", 
+
+"He thinks just ’cause I’m from Texas that means I’m a redneck—Chinese people and their stupid stereotypes!", 
+
+"Let me tell you, Bobby, there’s nothing funny about these sounds! What that person on your tape has is a medical disorder. Now you get ready for the game, okay?", 
+
+"God dang it, Bobby!", 
+
+"Put your head between your six legs and kiss your butt goodbye!", 
+
+"You’re a regular Halloween hellraiser just like your old man. And I’m very disappointed in you!", 
+
+"Dang it, I am sick and tired of everyone’s asinine ideas about me. I’m not a redneck, and I’m not some Hollywood jerk. I’m something else entirely. I’m complicated!",  
+
+"That’s a clean-burning hell, I tell you what!", 
+
+"Suffering is a part of every religion, Peggy. I mean, look at what the Jews have been through, and you never hear them complaining.", 
+
+"Dale, that’s asinine, and here are the four reasons why. First, you’re not gonna clone a super-warrior out of a guy who can’t even win a thumb-wrestling match. Two, you’ve spent your life swearing that the robots will eliminate the clones by the year 2010. So which is it, robots or clones? Three, you’ve already said you sympathize with the invading Mongolians of 2087, so you’d be the last one they’d send to fight them. And four, if you were from the future, you would have seen this coming.", 
+
+"Don’t play lawyer-ball, son.", 
+
+"You do not use a man’s hitting wedge to hit the mud, Bobby!", 
+
+"An ‘F’ in English? Bobby, you speak English!", 
+
+"Don’t play mind checkers with me, man. I’m not in the mood.", 
+
+"Peggy, go get my BC headache powder and a glass of water.", 
+
+"I sell popcorn and popcorn accessories.", 
+
+"No, you are not tripping. That is an emu.", 
+
+"Fine. But I think you owe my lawn an apology.", 
+
+"For God’s sake, Bobby, what nationality are you?",
+
+"Hank Hill, best man, Strickland Propane.",
+
+"Well, why not? I like this new generation of music.",
+
+"Mother of God, it’s all toilet sounds! Where did you record this?",
+
+"Hey Khan. I thought I heard someone mixing concrete.",
+
+"Now what’s that supposed to mean?",
+
+"Well, that boy’s gonna get a talking to, I tell ya what!",
+
+"6 AM, and already the boy ain’t right!", 
+
+"You know, Helen Keller was largely useless, but look how we remember her. Yep, the first lady of the American stage.", 
+
+"How is cutting down on pollution a government plot, Dale?",
+
+"Why are you holding your cigarette like some kind of European Nazi in a movie?",
+
+"This grout is supposed to stay white for twenty years. What’s it been, seventeen, eighteen? Peggy, where’s that receipt?",
+
+"Well, she’s got a point, but he’s a war hero. She’s my wife, but he’s got no shins.", 
+
+"Dale, you giblet-head, we live in Texas. It’s already 110° in the summer, and if it gets one degree hotter, I’m gonna kick your ass!",
+
+"So you found yourself a project. Do you get the same, uh, high I get from lawn care?", 
+
+"We, of the Order of the Straight Arrow, call upon the spirit Wematanye, protector of the sacred ground that brings us cool water to drink and energy-efficient, clean-burning propane gas for all our sacred heating and cooking needs. Wematanye says, ‘respect the earth!’ She’s ours, by God, our taxes pay for Her. Also, it says here you gotta love all Her creatures. Let’s see…oh, here we go: Though we walk through the valley of the shadow of death, you’re gonna recommend us to the spirit in the sky, with liberty and justice for all. Wematanye is with you, and with Texas. Amen.", 
+
+"It’s a combat bowl. Bobby made one too.",
+
+"It’s different in high school, Peggy. Bullies react to Shakespeare like, well, like propane-emulsifiers react to carbon deposits. I can’t put it any plainer than that.",
 ];
