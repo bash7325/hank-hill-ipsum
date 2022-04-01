@@ -138,4 +138,12 @@ const text = [
 "It’s a combat bowl. Bobby made one too.",
 
 "It’s different in high school, Peggy. Bullies react to Shakespeare like, well, like propane-emulsifiers react to carbon deposits. I can’t put it any plainer than that.",
+
+"Fine. But I think you owe my lawn an apology. *pauses* We’re waiting!", 
+
+"So you found yourself a project. Do you get the same, uh, high I get from lawn care?",
+
+"Head to feet, you don't cause a leak. Feet to head, everyone's dead.",
+
+
 ];
