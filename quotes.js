@@ -145,5 +145,42 @@ const text = [
 
 "Head to feet, you don't cause a leak. Feet to head, everyone's dead.",
 
+"We will be disrupting a Chuck Mangione concert with kazoos.",
+
+"That's a neat idea, Luanne. And while you're at it, you can fly around the world in a weather balloon.",
+
+"Newsweek? Not in this house.",
+
+"Aisle 8A. Boy, we sure are a long way from automotive.",
+
+"You know, the special time in girls' lives, and the freshness and all that.",
+
+"Poor Connie? Poor me! I had to learn about Megalobsorbancy.",
+
+"But Carl, shop is the foundation of all learning. And I tell you what, a youngster with a tool in both hands has no hands left to do drugs.",
+
+"Damn zero-tolerance. Using a saw as a weapon makes about as much sense as using a gun to cut a two-by-four.",
+
+"I'd like to see your teacher give an F to the U.S. of A.",
+
+"Mr. Meredith, I have admired you from your playing days to Monday Night Football to your iced tea commercials.",
+
+"A dog's the only animal that makes sense. And I suppose a cat might work, you know, if you're a little girl or an old lady who's sick.",
+
+"Your first concussion. Now, don't fall asleep, son, both because you could die and because I want to tell you how proud I am. I mean, look at you, the bruises, the dirty clothes, the smell -- you're all right. Is there anything I can get you?",
+
+"A circus clown is just a carny who's too stupid to flip a ride switch on and off. Now, you take a circus clown, roll him on the barn floor, kick him in the head a couple hundred times, and what have you got?",
+
+"I haven't heard the words prop comic since he picked up a rope. And it keeps him away from the video games. I caught him playing this Tomb Raider game where he was a girl!",
+
+"Hey, how about the time we snuck into the stadium and mowed the whole field before the groundskeeper could? The look on his face right before we apologized!",
+
+" As a young boy, I always dreamed of winning the Super Bowl. Then, as most of you know, that dream was crushed along with my ankle in the Class 2A State Football Championship. I knocked around for a while, sowed my oats, got a job at Jeans West. Long story short, one day at JW, I sold a pair of Jordache to a man who would change my life. To quote Dr. Luther King, I had another dream: to sell propane and propane accessories. The name of the man and the dealership: Strickland",
+
+"You see, Luanne, a lot of good things happened in the world when people were like me. Sure, they'll never write a Hollywood musical about a fella who keeps his yard free of debris and pays his bills on time, and the MTV won't put on a video about a man who requires shoes in the kitchen, but it's because of people like us",
+
+"Representative Jim Powell thinks your problem and flag-burning are among the biggest problems facing America today. That's why Jim Powell has introduced House Resolution number 11461. It would ban flag-burning in all... Aw, he never even read it. I'd go see him in person, but no self-respecting bus company would let me on with hair like this.",
+
+"When he came back from the Pacific, he was five foot even. A Japanese machine gun blew away his shins. The doctor said he'd never walk again. Eighteen months later, my father walked right over to that doctor, reached up, and punched him in the kidneys. Now, I can't prove what he did at those battles. In fact, I'm not even sure if the part about hitting the doctor is true. But I do know this: my father doesn't have shins, and somehow he walks. And that's pretty heroic to me. And that's what I was muttering.",
 
 ];
