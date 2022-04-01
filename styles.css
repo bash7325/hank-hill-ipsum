@@ -24,11 +24,12 @@ body {
 h3 {
   font-size: 1.33rem;
   text-transform: uppercase;
-  color: hsl(209, 61%, 16%);
+  color: #bbbbbb;
   line-height: 1.25;
   margin: 0.75rem 0;
   letter-spacing: 0.25rem;
   text-align: center;
+  text-shadow: 0.07em 0 black, 0 0.07em black, -0.07em 0 black, 0 -0.07em black;
 }
 
 .lorem-form {
