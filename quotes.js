@@ -183,4 +183,37 @@ const text = [
 
 "When he came back from the Pacific, he was five foot even. A Japanese machine gun blew away his shins. The doctor said he'd never walk again. Eighteen months later, my father walked right over to that doctor, reached up, and punched him in the kidneys. Now, I can't prove what he did at those battles. In fact, I'm not even sure if the part about hitting the doctor is true. But I do know this: my father doesn't have shins, and somehow he walks. And that's pretty heroic to me. And that's what I was muttering.",
 
+"It's gonna take a lot of hard work to repair this floor, and since this is all your fault, Mister, I'm not gonna let you help me.",
+
+"Tae Bo, is that that new oriental way of moving your couch around?",
+
+"Look, Luanne, I fought at the Y and trust me, you are no boxer.",
+
+"Dang it, Boomhauer. Just because the Cowboys have a bad season or two or five doesn't give you the right to abandon them. Right, guys?",
+
+"Oh, god! Debbie's hippie roommate turned me in for smokin' narcotics!",
+
+"Bobby, you name a pet, you name a guitar, but you do not name a filthy animal!",
+
+"Eight feet huh? Yeah, you see Khan, in this neighborhood, side fences have to be 5'6 or under. It's not in the code or anything, it's just something I'm trying to enforce.",
+
+"I made it to Eagle Scout. And Dad, you know the war was over. Besides, I tried to enlist, but the army felt I wouldn't be able to relieve myself efficiently under duress, especially in front of others.",
+
+"You've got what they call book smarts. Now, if we wanted to write a story about you losing our money, well, hands down, you're the one for the job. But if we want to do something that takes street smarts, like getting our money back from the jerk who stole it, then I'm the guy.",
+
+"I didn't marry you because I need someone to cook and clean for me. I married you because... you know... you know... the love.",
+
+"And a notch up from the Wagner Char-King Superiore is the Wagner Char-King Imperiale. Wagner's a fantastic company. They're based out of El Paso, so they've got American ingenuity and Texas craftsmanship built right in.",
+
+"God was punishing me for being prideful. He didn't give me a fatal heart attack because he wanted me to sell propane, but he made his point.",
+
+"Where have you been? I've had to deal with the Bluegrass Brothers all by myself. They've been staring at me, twiddling their beards, trying to psych me out.",
+
+"It's your fault I was born in New York and I can't drive my truck and I tried a bagel and actually liked it. No, no more lies -- I loved that bagel!",
+
+"He's probably camped out in the bushes. No, that takes guts. He probably spent the night at Denny's.",
+
+"1.6 gallons per flush per low-flow toilet. Sounds pretty good, doesn't it? But unfortunately, in the real world, where things don't flush the way they do in the movies, it can take three, four, or in the case of my wife Peggy Hill, six flushes to get completely remove solid waste. The fact is, these toilets are squandering more water than they are saving. Thank you.",
+
+"Bobby, I know it's not good when a girl breaks your heart. It's only natural to be sad. But the couch is a happy place."
 ];
