@@ -51,7 +51,8 @@ h3 {
 
 label {
   font-size: 1.25rem;
-  color: rgb(255, 255, 255);
+  color: #bbbbbb;
+  text-shadow: 0.07em 0 black, 0 0.07em black, -0.07em 0 black, 0 -0.07em black;
 }
 
 input {
@@ -59,7 +60,6 @@ input {
   color:rgb(102, 102, 102);
   width: 4rem;
   border-radius: 0.5rem;
-  border: none;
   margin: 0 0.5rem;
   font-size: 1.25rem;
 }
