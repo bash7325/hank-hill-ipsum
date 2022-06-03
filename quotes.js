@@ -215,5 +215,17 @@ const text = [
 
 "1.6 gallons per flush per low-flow toilet. Sounds pretty good, doesn't it? But unfortunately, in the real world, where things don't flush the way they do in the movies, it can take three, four, or in the case of my wife Peggy Hill, six flushes to get completely remove solid waste. The fact is, these toilets are squandering more water than they are saving. Thank you.",
 
-"Bobby, I know it's not good when a girl breaks your heart. It's only natural to be sad. But the couch is a happy place."
+"Bobby, I know it's not good when a girl breaks your heart. It's only natural to be sad. But the couch is a happy place.",
+
+"Bobby, vegetarians can't be trusted. Just last week we caught one siphoning gas out of a company truck.",
+
+"Bill, I'm taking you to the one place that can fix whatever you've got going on inside you. You know, the despair and whatnot.",
+
+"When I was your age, we had these things called songs. They were two-minute stories about falling in love or burning down Georgia. But I guess Hollywood decided we needed more criminals yelling about their lady friends'... baby-places.",
+
+"I've been your friend for twenty-five years. Who talked you out of buying the houseboat? Who kept you from killing yourself after Lenore left you? Who listens to you for hours after you've had a nightmare?",
+
+"The Liberty Bell is great. But come on, if it was in a competition with a bunch of other bells without cracks, it would lose",
+
+"Yep, those were some good times. Bobby'd tell me something about comedy, and then I'd teach him a little bit about propane. You know that bit where he'd say Propane is 270 times more compact in its liquid form than as a gas? I gave him that line. But he sure knew how to deliver it."
 ];
