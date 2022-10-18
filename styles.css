@@ -8,17 +8,17 @@
 
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background: hsl(210, 36%, 96%);
   color: hsl(209, 61%, 16%);
   line-height: 1.5;
   font-size: 0.875rem;
-  background: url(./assets/hank.png);
+  background-image: url(./assets/hank.png);
+  background-color: #111;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
   /*make background responsive */
-  background-size: 100% 100%;
+  background-size: 85% 100%;
 }
 
 h3 {
