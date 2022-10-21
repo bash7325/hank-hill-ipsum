@@ -1,3 +1,4 @@
+
 const form = document.querySelector(".lorem-form");
 const numOfPara = document.getElementById("numofpara");
 const numOfParaRange = document.getElementById("numofparaRange");
@@ -14,10 +15,29 @@ form.addEventListener("submit", (e) => {
   const value = parseInt(numOfPara.value);
   let tempText = text.sort(() => Math.random() - 0.5).slice(0, value);
   tempText = tempText.sort(() => Math.random() - 0.5);
-  tempText = tempText.map((item) => `<p class="result">${item}</p>`).join("");
+
+  //create an array of unique 3 digit ids
+  const ids = [];
+  while (ids.length < value) {
+    const id = Math.floor(Math.random() * 1000);
+    if (!ids.includes(id)) {
+      ids.push(id);
+    }
+  }
+
+  tempText = tempText.map((item, index) => `<p id="p${ids[index]}" class="result">${item}<button id="copyBtn" onclick="handleCopyTextFromParagraph()"  class="copy">copy</button></p>`).join("");
   result.innerHTML = tempText;
 });
 
 numOfPara.addEventListener("input", syncParaNumbers);
 numOfParaRange.addEventListener("input", syncParaNumbers);
+
+function handleCopyTextFromParagraph() {
+  //depending on what button is clicked, copy that text to the clipboard
+  const id = event.target.parentNode.id;
+  const text = document.getElementById(id).innerText.slice(0, -4);
+  navigator.clipboard.writeText(text);
+}
+
+
 
