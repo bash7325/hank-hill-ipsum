@@ -253,5 +253,35 @@ const text = [
 
   "Now, I'm not gonna mention any names, but due to last years unfortunate kissing incident, mistletoe is banned from this years Christmas party.",
 
-  "Well, they are in different conferences, so it would only be a problem if they played in the Super Bowl. An all-Texas Super Bowl! His will be done!"
+  "Well, they are in different conferences, so it would only be a problem if they played in the Super Bowl. An all-Texas Super Bowl! His will be done!",
+
+  "I guess I am the best man, and with the joy of responsibility comes the burden of obligation.",
+
+  "Come on , guys. Keep it together. You're acting like a bunch of 12-year-olds. This is a real sporting event. I saw it on ESPN3. That's where they parked poor Fran Tarkenton.",
+
+  "We don't fish for the fish. Ninety percent of what I like about this sport -- and it is a sport -- is sitting in the boat doing nothing. And the icing on the cake is when God smiles on you and you hook one. And then when you're reeling it in, everything else falls away. You don't think about taxes or traffic or that pushy gal that's trying to get into the Citadel or who's going to take care of you when your mother and I are old and incapacitated. All there is is a man, a rod, a lake and a fish. And it all starts with a hand-dug American worm.",
+
+  "Tell you what, if you play some catch with your old man, I'll buy you that album you want by those guys I hate.",
+
+  "Bobby, I know you're probably pretty upset with me right now, but one day you'll understand how much love it takes to crush a little boy's dream.",
+
+  "Eatwells? Sugar-free low-fat fun bars? Peggy, these aren't for trick-or-treaters, they're for diabetics.",
+
+  "Good news, Buck. We can get propane to the nursing homes by diverting it away from the Museum of Modern Art. If anyone asks, it was a tough choice.",
+
+  "People are still talking about Super Bowl 23 -- Boomhauer's dip was so thick, the chips were snapping like Joe Theisman's birdy leg.",
+
+  "Bobby, if you give a Valentine to a sixth-grade boy, girls are gonna think you're sensitive. And something like that can follow you the rest of your life.",
+
+  " If you're looking for a real job, you ought to consider a career in propane. You know, this whole humor fad is pretty much on the way out.",
+
+  "You don't have to be embarrassed about your feet, Bill, it's just a medical condition.",
+
+  "Bobby, how would you like to help me out around the shop for a few days? I can't pay you, but you can have all the snacks you want. We've got fruit pies, pretzels, all kinds of Newtons...",
+
+  "Bobby, I know we've never talked about this, but someday I'm going to die. And when that happens, then you can go to cooking school.",
+
+  "I know we can never compete with Mega Lo Mart's prices, but I thought we could get a spokesperson, the way Mega Lo Mart cashes in on Chuck Mangione's star power. Now, I've been doing some research on this Zamfir fella, and turns out he's sold more albums worldwide than the Beatles. His music's better too.",
+
+  "My mower is not too old and my Mom was not too old. But this isn't about my Mom and it certainly isn't about my mower. It's about a bitter old man who blames everybody but himself for his own problems. And if you ever talk like that again about my Mom or my mower, you're not welcome in my house."
 ];

@@ -40,8 +40,3 @@ function handleCopyTextFromParagraph() {
   const tooltip = document.getElementById("copyToolTip");
   tooltip.innerHTML = "Text has been copied I tell you what";
 }
-
-
-
-
-
