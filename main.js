@@ -37,7 +37,11 @@ function handleCopyTextFromParagraph() {
   const id = event.target.parentNode.id;
   const text = document.getElementById(id).innerText.slice(0, -4);
   navigator.clipboard.writeText(text);
+  const tooltip = document.getElementById("copyToolTip");
+  tooltip.innerHTML = "Text has been copied I tell you what";
 }
+
+
 
 
 
