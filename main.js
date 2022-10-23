@@ -25,7 +25,7 @@ form.addEventListener("submit", (e) => {
     }
   }
 
-  tempText = tempText.map((item, index) => `<p id="p${ids[index]}" class="result">${item}<button id="copyBtn" onclick="handleCopyTextFromParagraph()"  class="copy">copy</button></p>`).join("");
+  tempText = tempText.map((item, index) => `<p id="p${ids[index]}" class="result">${item}<button class="btn" id="copyBtn" onclick="handleCopyTextFromParagraph()"  class="copy">copy</button></p>`).join("");
   result.innerHTML = tempText;
 });
 

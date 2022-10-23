@@ -67,7 +67,7 @@ input {
 .btn {
   text-transform: uppercase;
   background: transparent;
-  color: rgb(102, 102, 102);
+  color: rgb(255, 255, 255);
   letter-spacing: 0.1rem;
   display: inline-block;
   font-weight: 700;
@@ -88,6 +88,7 @@ input {
 .result {
   width:80vw;
   margin: 1rem auto;
+  padding-bottom: 5px;
   font-size: 1.05rem;
   font-weight: 700;
   color: rgb(211, 211, 211);
