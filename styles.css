@@ -148,11 +148,12 @@ li a:hover {
 .title-float {
   float: left;
 }
-
+/* 
 #navbar {
   position: fixed;
   width: 100%;
-}
+} */
+
 @media screen and (max-width:768px) {
   body {
     background-size: cover;
