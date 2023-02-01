@@ -283,5 +283,19 @@ const text = [
 
   "I know we can never compete with Mega Lo Mart's prices, but I thought we could get a spokesperson, the way Mega Lo Mart cashes in on Chuck Mangione's star power. Now, I've been doing some research on this Zamfir fella, and turns out he's sold more albums worldwide than the Beatles. His music's better too.",
 
-  "My mower is not too old and my Mom was not too old. But this isn't about my Mom and it certainly isn't about my mower. It's about a bitter old man who blames everybody but himself for his own problems. And if you ever talk like that again about my Mom or my mower, you're not welcome in my house."
+  "My mower is not too old and my Mom was not too old. But this isn't about my Mom and it certainly isn't about my mower. It's about a bitter old man who blames everybody but himself for his own problems. And if you ever talk like that again about my Mom or my mower, you're not welcome in my house.",
+  
+  "I thought I'd take my boy to see that new space movie. I hear its got special effects.",
+  
+  "Oh God I'm talking to myself, it must be a side-effect of the Marijuana poisoning",
+  
+  "I can’t believe I lied to my boss. I should’ve just done the honest thing and murdered the emus",
+  
+  "You’re calling me weak! Look at your little bird arms, there no thicker than a cigarette! I can smoke them little arms.",
+  
+  "Dale, you giblet head. We live in Texas. It's already 110 degrees in the summer and if it gets one degree hotter I'm kicking your ass.",
+  
+  "Do I look like I know what a jpeg is I just want a picture of a god dang hot dog",
+  
+  "You know what’s not cool Bobby? Hell."
 ];
