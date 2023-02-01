@@ -297,5 +297,13 @@ const text = [
   
   "Do I look like I know what a jpeg is I just want a picture of a god dang hot dog",
   
-  "You know what’s not cool Bobby? Hell."
+  "You know what’s not cool Bobby? Hell.",
+  
+  "He asked if I wanted honey mustard and I nearly took a swing at him",
+  
+  "I've got a sense of humor; I laugh at Tony Danza.",
+  
+  "It's a fact of life Bobby. When you have teenaged boys, husky boys, and doughnuts all in the same place you're just asking for trouble.",
+  
+  "Oh my God...his handshake...it's LIMP!"
 ];
