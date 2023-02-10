@@ -1,2 +1,1 @@
-# tnh-ipsum
-An ipsum generator featuring quotes from Hank Rutherford Hill.
+Gets random Hank Hill quotes. Can be used for filler text.
