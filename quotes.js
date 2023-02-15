@@ -305,5 +305,21 @@ const text = [
   
   "It's a fact of life Bobby. When you have teenaged boys, husky boys, and doughnuts all in the same place you're just asking for trouble.",
   
-  "Oh my God...his handshake...it's LIMP!"
+  "Oh my God...his handshake...it's LIMP!",
+
+  "Firm but with a little give. Yup, these are medium-rare.",
+
+  "I told you about the time I put on the gigantic pair of khakis and pretended I was tiny. I was very upfront about it.",
+
+  "From now on there is only one woman I will pimp, sweet lady propane.",
+
+  "You see, I'd always thought of propane as a dignified lady. But she can also be a dirty girl.",
+
+  "Ginseng? I don't need to get all hopped-up on dope!",
+
+  "Forty-five dollars? The family bible didn't even cost that much, and it was written by Jesus.",
+
+  "I can't just leave work five minutes early on a Friday, Bobby.",
+
+  "We better get that second coat of paint on before Bobby puts back that poster of babies dressed as strawberries."
 ];
