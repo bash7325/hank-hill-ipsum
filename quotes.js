@@ -321,5 +321,39 @@ const text = [
 
   "I can't just leave work five minutes early on a Friday, Bobby.",
 
-  "We better get that second coat of paint on before Bobby puts back that poster of babies dressed as strawberries."
+  "We better get that second coat of paint on before Bobby puts back that poster of babies dressed as strawberries.",
+
+  "With the joys of responsibility comes the burden of obligation.",
+
+  "I always say if you plan ahead then when things happen you're prepared for them.",
+  
+  "Hes in his room... smelling things..",
+  
+  "Whoa there, Dr. Feelgood! I work at a propane dealership, not Woodstock!",
+
+  "You know, sometimes I think I'd like to visit Montana. Is that weird?",
+
+  "I can't enjoy a party till I know where the bathroom is, you knew that when you married me.",
+
+  "You called in a fake propane emergency? That's a $50 fine after I report it.",
+
+  "He always leaves the TV on the Game Show network. I'm not sure why it bothers me, but it does",
+
+  "Hot air balloon? Why, that's one of the 11 uses of propane I've yet to experience first hand!",
+
+  "Thatherton!",
+
+  "You gotta take it one day at a time...like the drunks do",
+
+  "Ginseng? I don't need to get all hopped-up on dope!",
+
+  "I thought I smelled corn and this confirms it",
+
+  "Forty-five dollars? The family bible didn't even cost that much, and it was written by Jesus.",
+
+  "I can't just leave work five minutes early on a Friday, Bobby.",
+
+  "We better get that second coat of paint on before Bobby puts back that poster of babies dressed as strawberries.",
+
+  "My wife lies to me, my beer company betrays me, Mexicans are giving americans diarrhea, what the hell is going on here?"
 ];
