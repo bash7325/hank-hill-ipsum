@@ -5,31 +5,43 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bangers&family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles.css">
     <title>Hank Hill Ipsum</title>
 </head>
 
 <body>
-    <ul id="navbar">
-        <li class="title-float"><a href="/">Hank Hill Ipsum</a></li>
-        <li><a href="#about">About</a></li>
-      </ul>
+    <nav id="navbar">
+        <a href="/" class="nav-title">Hank Hill Ipsum</a>
+        <a href="#about">About</a>
+    </nav>
     <section class="section-center">
-        <h3>Choose how many paragraphs to generate</h3>
+        <div class="hero">
+            <h1 class="main-title">Hank Hill Ipsum</h1>
+            <p class="tagline">Taste the meat, not the heat. Placeholder text powered by propane.</p>
+        </div>
         <form class="lorem-form">
             <label for="numofpara">Paragraphs:</label>
             <div class="paraAmountNum">
                 <input type="range" min="1" max="10" value="5" id="numofparaRange" />
                 <input type="number" min="1" max="10" value="5" id="numofpara" />
             </div>
-            <button type="submit" class="btn">Generate</button>
+            <button type="submit" class="btn btn-generate">
+                <span class="flame">&#128293;</span> Generate
+            </button>
         </form>
-        <h3 id="copyToolTip"></h3>
+        <div id="copyToolTip" class="toast"></div>
         <article class="lorem-text"></article>
     </section>
-<footer>Made With &#128153 and Propane by Brandon</footer>
-    <script src="main.js"></script>
+    <section id="about" class="about-section">
+        <h2>About</h2>
+        <p>Hank Hill Ipsum is a lorem ipsum generator featuring quotes from Hank Hill of <em>King of the Hill</em>. Use it to fill your designs with propane-powered placeholder text, I tell you what.</p>
+    </section>
+    <footer>Made With &#128293; and Propane by Brandon</footer>
     <script src="quotes.js"></script>
+    <script src="main.js"></script>
 </body>
 
 </html>
