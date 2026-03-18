@@ -25,15 +25,39 @@ body {
   color: var(--text);
   line-height: 1.6;
   font-size: 1rem;
-  background-image: url(./assets/hank.png);
-  background-color: var(--bg-dark);
-  background-repeat: no-repeat;
-  background-size: cover;
+  background: linear-gradient(170deg, #1b2a4a 0%, #2c3e50 30%, #4a6741 60%, #3d5a3e 80%, #2a3c2a 100%);
   background-attachment: fixed;
-  background-position: center;
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+  position: relative;
+}
+
+body::after {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background:
+    url(./assets/4743010-middle.png) no-repeat 5% 85% / 280px auto,
+    url(./assets/66eqebpjmmj81.png) no-repeat 92% 20% / 160px auto,
+    url(./assets/hank.png) no-repeat 50% 50% / 140px auto,
+    url(./assets/4743010-middle.png) no-repeat 15% 25% / 200px auto,
+    url(./assets/66eqebpjmmj81.png) no-repeat 78% 70% / 170px auto,
+    url(./assets/hank.png) no-repeat 88% 90% / 150px auto,
+    url(./assets/66eqebpjmmj81.png) no-repeat 3% 45% / 130px auto,
+    url(./assets/4743010-middle.png) no-repeat 40% 15% / 220px auto,
+    url(./assets/hank.png) no-repeat 65% 80% / 120px auto,
+    url(./assets/66eqebpjmmj81.png) no-repeat 30% 65% / 140px auto,
+    url(./assets/4743010-middle.png) no-repeat 75% 40% / 190px auto,
+    url(./assets/hank.png) no-repeat 95% 55% / 160px auto,
+    url(./assets/66eqebpjmmj81.png) no-repeat 55% 95% / 180px auto,
+    url(./assets/4743010-middle.png) no-repeat 20% 5% / 210px auto;
+  opacity: 0.18;
+  pointer-events: none;
+  z-index: 0;
 }
 
 /* ── nav ── */
@@ -325,9 +349,10 @@ footer {
 
 /* ── responsive ── */
 @media screen and (max-width: 768px) {
-  body {
-    background-size: cover;
-    background-attachment: fixed;
+  body::before {
+    width: 160px;
+    height: 240px;
+    opacity: 0.08;
   }
 
   .main-title {
