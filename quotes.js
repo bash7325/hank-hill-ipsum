@@ -355,5 +355,151 @@ const text = [
 
   "We better get that second coat of paint on before Bobby puts back that poster of babies dressed as strawberries.",
 
-  "My wife lies to me, my beer company betrays me, Mexicans are giving americans diarrhea, what the hell is going on here?"
+  "My wife lies to me, my beer company betrays me, Mexicans are giving americans diarrhea, what the hell is going on here?",
+
+  "I'm gonna write a letter to the president of the United States of America. Not a crazy letter, just a nice, firm letter.",
+
+  "Taste the meat, not the heat.",
+
+  "Charcoal? That's not grilling, that's just outdoor cooking.",
+
+  "You know what Ford stands for, don't ya? Fix It Again, Tony. Wait, that's Fiat.",
+
+  "The man is seventy years old, and he still calls his mom every Sunday. That is a good man right there.",
+
+  "I'm not gonna lie to you, Bobby. That was not a great game. But here's the thing: what we lost in score, we made up for in character.",
+
+  "That Boomhauer can sure do a lot of things, but communicating isn't one of them.",
+
+  "You know what they say: if you can't stand the heat, get out of the kitchen. And that goes double for the garage.",
+
+  "There are three things I'll never understand: women, the stock market, and why anyone would ever choose charcoal over propane.",
+
+  "I'm gonna tell you something I've never told anyone before: I once used charcoal. I was young and I didn't know any better.",
+
+  "The lawn is not just grass. It's the first thing people see when they look at your house. It tells them who you are.",
+
+  "If we don't start teaching our kids propane safety in elementary school, we have failed as a society.",
+
+  "I don't care if it's the Fourth of July, you do not hold a sparkler sideways.",
+
+  "I tell you what, if that kid next door doesn't stop riding his bike on my lawn, there's gonna be a reckoning.",
+
+  "That's propane, and propane accessories. One word, two words. That's how I like to introduce myself.",
+
+  "Bobby, a man does not cry unless he is watching Field of Dreams or has been kicked in a sensitive area.",
+
+  "I'll tell you what's wrong with America. People are grilling with charcoal! That's what's wrong with America.",
+
+  "Peggy, I'm a little worried about you. You haven't organized anything in almost three days.",
+
+  "It took Dad two weeks to recover from that handshake. Two weeks, Bobby.",
+
+  "Now what kind of man orders a salad at a steak house? That's like going to a barber and asking for a shampoo.",
+
+  "I'm not interested in what you have to say. Unless it involves propane, lawn care, or the Dallas Cowboys.",
+
+  "You know, they say if you love what you do, you'll never work a day in your life. I love propane, and I work very hard, so I don't know what that's about.",
+
+  "I would have gone with a firmer handshake. You don't want people to think you sell charcoal.",
+
+  "There is nothing more American than a cold beer on a hot afternoon with your neighbors. Unless it's selling propane.",
+
+  "If you want propane, you've come to the right guy. If you want friendship, well, you've also come to the right guy.",
+
+  "Every man needs three things in life: a good truck, a good dog, and a reliable propane supplier.",
+
+  "The garage is not a storage unit, Peggy. It is a workshop, a sanctuary, and the birthplace of every good idea I've ever had.",
+
+  "Bobby, when you shake a man's hand, you look him in the eye. Anything else is just grabbing.",
+
+  "I believe in two things: propane gas, and the United States Constitution. Not necessarily in that order.",
+
+  "I am not a redneck. I am a proud, ignorant American.",
+
+  "If it gets one degree hotter I'm gonna kick your ass!",
+
+  "Bobby, I got propane in my urethra!",
+
+  "That boy ain't right.",
+
+  "Do I look like I know what a JPEG is? I just want a picture of a god-dang hot dog!",
+
+  "I'm gonna kick your ass!",
+
+  "A jigolo? Like a male prostitute? Bobby, you're thirteen!",
+
+  "I tell you what.",
+
+  "Well, we didn't get the monkey. And that was a sign from God. You don't need a monkey, Bobby.",
+
+  "I'm a little worried about being a slacker. Is that something you can do on a Saturday?",
+
+  "If you ever do anything to hurt my dog, I will shove my fist so far up your... you know what, I'm just gonna say it... up your butt!",
+
+  "I'm a pretty normal guy. I do one weird thing: I like to go into the bathroom and weigh myself.",
+
+  "Peggy, you are my better half, and I'm your… lesser half.",
+
+  "Boy, I'll tell you what, them dang ol' kids and their music, man, I tell you what.",
+
+  "I sell propane and propane accessories for a living. I'm pretty normal, I think.",
+
+  "The game is called 'who wants to be kicked in the face by Hank Hill.' And the answer is: nobody.",
+
+  "I have been working in propane for twenty years. You do not get to that level of seniority by stealing propane, or propane accessories.",
+
+  "I'm in a glass case of emotion! I mean, dang it!",
+
+  "I refuse to ride the bus. Where would the world be if Rosa Parks had just given up her seat? She'd have gotten home earlier, I guess, but we wouldn't have all those mailboxes.",
+
+  "My dad says butane is a bastard gas.",
+
+  "Don't be a fool. There has never been a bad truck in the Ford F-Series and there never will be.",
+
+  "Yep.",
+
+  "Bobby, I never thought I'd say this, but I think you might be watching too much television.",
+
+  "The temperature here today is 68 degrees with 17 percent humidity, which I consider to be perfect propane weather.",
+
+  "You know, the three things a man needs: shoes, a hat, and a firm handshake.",
+
+  "I had a bad dream. I dreamed they discontinued the Ranger.",
+
+  "I work hard all week selling propane, and on the weekend I like to stand in the alley and drink beer. Is that so wrong?",
+
+  "The Mega Lo Mart is a great store, but I'd rather have a thousand small stores where you know the guy behind the counter and he knows your propane needs.",
+
+  "I am an assistant manager, Peggy. Not assistant to the manager. There is a very big difference.",
+
+  "You can prop open anything with a stick. That's the beauty of sticks.",
+
+  "A man with a full propane tank has nothing to worry about.",
+
+  "This lawn is a living thing. It breathes. It cries out when it's thirsty. And you can't just run a sprinkler for twenty minutes and call it a day.",
+
+  "When I die, I want to be buried face down, so anyone who doesn't like me can kiss my ass.",
+
+  "Is it just me, or does it seem like every day there's a new problem that could have been avoided with a little common sense and a fresh tank of propane?",
+
+  "If I'm gonna have a heart attack, I'd rather have it in the alley with a beer in my hand than at some fancy hospital.",
+
+  "Peggy, they call it a toolbox, not a junk drawer on wheels.",
+
+  "Bobby, I would rather die than open a window in this truck while the air conditioning is running.",
+
+  "They want me to sell butane, Peggy. Butane! I would sooner die.",
+
+  "I spent fifteen years building a relationship with that mower. Don't tell me we should just trade it in.",
+
+  "You don't get to be Assistant Manager of Strickland Propane by cutting corners. You get it by cutting grass.",
+
+  "I have never driven drunk in my life. But I have driven angry, and that's just as dangerous according to nobody.",
+
+  "I know that sounds crazy, but think about it: zero people have ever died from a propane overdose.",
+
+  "If Bobby turned out like that Boomhauer, I'd consider that a win honestly.",
+
+  "I'll have the Salisbury steak, and I don't need to see the menu."
 ];
